@@ -3,6 +3,7 @@ A curated list of UWP (Universal Windows Platform) materials and resources for c
 
 - https://security.stackexchange.com/questions/129721/uwp-windows-10-applications-internals-and-pentesting
 - https://www.unknowncheats.me/forum/general-programming-and-reversing/177183-basic-intermediate-techniques-uwp-app-modding.html
+- https://resources.infosecinstitute.com/topics/penetration-testing/windows-mobile-application-penetration-testing-part-5-intercepting-httphttps-traffic-of-uwp-apps-on-windows-desktop/
 - https://guidedhacking.com/threads/how-to-hack-uwp-bypass-windows-store-app-protection.14374/
 - https://behind.flatspot.pictures/hacking-windows-universal-apps-uwp/
 - https://securityonline.info/windows-10-uwp-protection-cracked/?expand_article=1
